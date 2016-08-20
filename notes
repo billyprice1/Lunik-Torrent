@@ -1,0 +1,3 @@
+notes
+
+curl -s --data "invitationkey=" http://isandbox.herokuapp.com/auth?todo=invite
